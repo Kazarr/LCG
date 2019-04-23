@@ -1,0 +1,2 @@
+# LCG
+Random generator exercise
